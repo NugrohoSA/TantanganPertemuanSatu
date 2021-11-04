@@ -1,0 +1,7 @@
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.AssemblyReference.cache
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb

@@ -1,0 +1,10 @@
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorWindowsFormsApp2\bin\Debug\CalculatorWindowsFormsApp2.exe.config
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorWindowsFormsApp2\bin\Debug\CalculatorWindowsFormsApp2.exe
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorWindowsFormsApp2\bin\Debug\CalculatorWindowsFormsApp2.pdb
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorWindowsFormsApp2\obj\Debug\CalculatorWindowsFormsApp2.csproj.AssemblyReference.cache
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorWindowsFormsApp2\obj\Debug\CalculatorWindowsFormsApp2.Form1.resources
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorWindowsFormsApp2\obj\Debug\CalculatorWindowsFormsApp2.Properties.Resources.resources
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorWindowsFormsApp2\obj\Debug\CalculatorWindowsFormsApp2.csproj.GenerateResource.cache
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorWindowsFormsApp2\obj\Debug\CalculatorWindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorWindowsFormsApp2\obj\Debug\CalculatorWindowsFormsApp2.exe
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 1\Tantangan Pertemuan 01\CalculatorApp\CalculatorWindowsFormsApp2\obj\Debug\CalculatorWindowsFormsApp2.pdb
